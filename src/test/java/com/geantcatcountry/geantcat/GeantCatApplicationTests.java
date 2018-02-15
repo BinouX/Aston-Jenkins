@@ -12,6 +12,7 @@ public class GeantCatApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.print("OK");
+		System.out.println("OK");
 	}
 
 }
